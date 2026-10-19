@@ -1,8 +1,6 @@
 {
   "v": 1,
-  "issuedAt": "2026-10-19T11:24:29.271Z",
-  "revoked": [
-    "1458481D3C204B23"
-  ],
-  "sig": "OcNc+qXKP53mPlC4YbbBGEQjRVvDuiHVdrNkT/knR4DmhJI22RjjKOhDa7NiolP14zVsTyPPqrBDTcJnIIoyAw=="
+  "issuedAt": "2026-10-19T11:33:11.647Z",
+  "revoked": [],
+  "sig": "GR95zA1161+UaxfinZvPSEDBs2A6hUNskuDwyVhKWEcAqPiAe6gkB+2umYE+9+PR8OIFb7gxiVub3kLOhonvDQ=="
 }
